@@ -8,8 +8,8 @@ IT Solution Developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chinnawat.khuentanta@gmail.com](mailto:chinnawat.khuentanta@gmail.com)
-* 🚀  I'm currently working on [TBG started 2009 - Now](http://official.thipparath.com)
-* 🧠  I'm learning C#
+* 🚀  I'm currently working on [Outsource and Consultant]
+* 🧠  C# .Net Core
 
 ### Skills
 
